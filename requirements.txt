@@ -224,7 +224,6 @@ python-magic==0.4.27
 python-multipart==0.0.9
 python-pptx==1.0.2
 pytz==2024.1
-pywin32==306
 PyYAML==6.0.1
 pyzmq==25.1.2
 rapidfuzz==3.6.1
@@ -259,8 +258,6 @@ tensorboard==2.15.2
 tensorboard-data-server==0.7.2
 tensorflow==2.15.0
 tensorflow-estimator==2.15.0
-tensorflow-intel==2.15.0
-tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 threadpoolctl==3.2.0
 tiktoken==0.7.0
